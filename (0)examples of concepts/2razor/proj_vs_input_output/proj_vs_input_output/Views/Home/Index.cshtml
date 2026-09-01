@@ -1,0 +1,8 @@
+﻿@model proj_vs_input_output.Models.Person
+
+<h2>Enter your name:</h2>
+
+<form asp-action="Greet" method="post">
+    <input type="text" asp-for="Name" />
+    <button type="submit">Submit</button>
+</form>

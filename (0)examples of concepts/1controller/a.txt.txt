@@ -1,0 +1,1 @@
+a controller is the middleman between the model and the view
