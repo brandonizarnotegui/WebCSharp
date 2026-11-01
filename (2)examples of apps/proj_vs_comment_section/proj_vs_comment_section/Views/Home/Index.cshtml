@@ -1,0 +1,80 @@
+﻿<!--Model = List<Comment>-->
+@model List<proj_vs_comment_section.Models.Comment> 
+
+<!--Yes — return View(comments) does send a List<Comment> to the view.
+
+But the important detail is:
+
+the CONTROLLER knows the type,
+the VIEW does not automatically know it. thats why we declare the type in the view aswell-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Comment Section</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            margin: 40px;
+        }
+
+        .comment-box {
+            border: 1px solid gray;
+            padding: 10px;
+            margin-top: 10px;
+            border-radius: 5px;
+        }
+
+        input, textarea {
+            width: 300px;
+            margin-bottom: 10px;
+        }
+
+        textarea {
+            height: 80px;
+        }
+
+        button {
+            padding: 8px 15px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Comment Section</h1>
+
+    <form asp-action="AddComment" method="post">
+
+        <div>
+            <input type="text"
+                   name="Username"
+                   placeholder="Your name"
+                   required />
+        </div>
+
+        <div>
+            <textarea name="Message"
+                      placeholder="Write a comment..."
+                      required></textarea>
+        </div>
+
+        <button type="submit">Post Comment</button>
+
+    </form>
+
+    <hr />
+
+    <h2>Comments</h2>
+
+    @foreach (var comment in Model)
+    {
+        <div class="comment-box">
+            <strong>@comment.Username</strong>
+
+            <p>@comment.Message</p>
+        </div>
+    }
+
+</body>
+</html>

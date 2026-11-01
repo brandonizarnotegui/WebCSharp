@@ -1,0 +1,18 @@
+
+
+
+table
+	thead
+		tr                        //table row
+			th		  //table header
+	tbody
+		tr	
+			td		  //table data
+
+----------------------------------
+
+pen injection, sync tas, wait context
+
+table,for real
+
+dbcontext, bob the buillder, conn string, app

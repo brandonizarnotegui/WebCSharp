@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(2)examples of apps\\proj_vs_comment_section\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A167627-1B0A-25D1-5E06-7BFC3D533BCC}|proj_vs_comment_section\\proj_vs_comment_section.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(2)examples of apps\\proj_vs_comment_section\\proj_vs_comment_section\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A167627-1B0A-25D1-5E06-7BFC3D533BCC}|proj_vs_comment_section\\proj_vs_comment_section.csproj|solutionrelative:proj_vs_comment_section\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A167627-1B0A-25D1-5E06-7BFC3D533BCC}|proj_vs_comment_section\\proj_vs_comment_section.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(2)examples of apps\\proj_vs_comment_section\\proj_vs_comment_section\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A167627-1B0A-25D1-5E06-7BFC3D533BCC}|proj_vs_comment_section\\proj_vs_comment_section.csproj|solutionrelative:proj_vs_comment_section\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A167627-1B0A-25D1-5E06-7BFC3D533BCC}|proj_vs_comment_section\\proj_vs_comment_section.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(2)examples of apps\\proj_vs_comment_section\\proj_vs_comment_section\\proj_vs_comment_section.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A167627-1B0A-25D1-5E06-7BFC3D533BCC}|proj_vs_comment_section\\proj_vs_comment_section.csproj|solutionrelative:proj_vs_comment_section\\proj_vs_comment_section.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A167627-1B0A-25D1-5E06-7BFC3D533BCC}|proj_vs_comment_section\\proj_vs_comment_section.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(2)examples of apps\\proj_vs_comment_section\\proj_vs_comment_section\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A167627-1B0A-25D1-5E06-7BFC3D533BCC}|proj_vs_comment_section\\proj_vs_comment_section.csproj|solutionrelative:proj_vs_comment_section\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A167627-1B0A-25D1-5E06-7BFC3D533BCC}|proj_vs_comment_section\\proj_vs_comment_section.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(2)examples of apps\\proj_vs_comment_section\\proj_vs_comment_section\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A167627-1B0A-25D1-5E06-7BFC3D533BCC}|proj_vs_comment_section\\proj_vs_comment_section.csproj|solutionrelative:proj_vs_comment_section\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(2)examples of apps\\proj_vs_comment_section\\proj_vs_comment_section\\Program.cs",
+              "RelativeDocumentMoniker": "proj_vs_comment_section\\Program.cs",
+              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(2)examples of apps\\proj_vs_comment_section\\proj_vs_comment_section\\Program.cs",
+              "RelativeToolTip": "proj_vs_comment_section\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T20:08:55.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(2)examples of apps\\proj_vs_comment_section\\proj_vs_comment_section\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "proj_vs_comment_section\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(2)examples of apps\\proj_vs_comment_section\\proj_vs_comment_section\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "proj_vs_comment_section\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T20:08:31.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "proj_vs_comment_section",
+              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(2)examples of apps\\proj_vs_comment_section\\proj_vs_comment_section\\proj_vs_comment_section.csproj",
+              "RelativeDocumentMoniker": "proj_vs_comment_section\\proj_vs_comment_section.csproj",
+              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(2)examples of apps\\proj_vs_comment_section\\proj_vs_comment_section\\proj_vs_comment_section.csproj",
+              "RelativeToolTip": "proj_vs_comment_section\\proj_vs_comment_section.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-16T20:08:01.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(2)examples of apps\\proj_vs_comment_section\\proj_vs_comment_section\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "proj_vs_comment_section\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(2)examples of apps\\proj_vs_comment_section\\proj_vs_comment_section\\Models\\Comment.cs",
+              "RelativeToolTip": "proj_vs_comment_section\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T20:07:02.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(2)examples of apps\\proj_vs_comment_section\\proj_vs_comment_section\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "proj_vs_comment_section\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(2)examples of apps\\proj_vs_comment_section\\proj_vs_comment_section\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "proj_vs_comment_section\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T20:06:50.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

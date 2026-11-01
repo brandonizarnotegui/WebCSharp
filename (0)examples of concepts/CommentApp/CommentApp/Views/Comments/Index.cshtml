@@ -1,0 +1,62 @@
+﻿@model List<CommentApp.Models.Comment>
+@{
+    ViewData["Title"] = "Comments";
+    string thread = ViewBag.ThreadKey;
+}
+
+<h2>Comments</h2>
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+@if (User.Identity != null && User.Identity.IsAuthenticated)
+{
+    <form asp-controller="Comments" asp-action="Create" method="post" class="mb-4">
+        @Html.AntiForgeryToken()
+        <input type="hidden" name="thread" value="@thread" />
+        <div class="mb-2">
+            <textarea name="content" class="form-control" rows="3" placeholder="Write a comment..." required></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Post Comment</button>
+    </form>
+}
+else
+{
+    <p><a asp-area="Identity" asp-page="/Account/Login">Log in</a> to leave a comment.</p>
+}
+
+<div class="comment-list">
+@foreach (var comment in Model)
+{
+    <div class="card mb-2" id="comment-@comment.Id">
+        <div class="card-body">
+            <div class="d-flex justify-content-between">
+                <strong>@(comment.User?.DisplayName ?? comment.User?.UserName ?? "Unknown")</strong>
+                <small class="text-muted">
+                    @comment.CreatedAt.ToLocalTime().ToString("g")
+                    @if (comment.EditedAt != null)
+                    {
+                        <span>(edited)</span>
+                    }
+                </small>
+            </div>
+            <p class="mt-2 mb-1" style="white-space: pre-wrap;">@comment.Content</p>
+
+            @if (User.Identity != null && User.Identity.IsAuthenticated &&
+                 (comment.UserId == User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier)?.Value))
+            {
+                <div class="d-flex gap-2">
+                    <form asp-action="Delete" asp-route-id="@comment.Id" method="post"
+                          onsubmit="return confirm('Delete this comment?');">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="thread" value="@thread" />
+                        <button type="submit" class="btn btn-sm btn-outline-danger">Delete</button>
+                    </form>
+                </div>
+            }
+        </div>
+    </div>
+}
+</div>

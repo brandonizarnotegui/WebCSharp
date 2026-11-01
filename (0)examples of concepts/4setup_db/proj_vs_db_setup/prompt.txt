@@ -1,0 +1,11 @@
+
+
+
+using asp.net core mvc in microsoft visual studio IDE make an app that 
+
+
+
+use net 10 also use > Install-Package Pomelo.EntityFrameworkCore.MySql -Version 9.0.0 >
+ Install-Package Microsoft.EntityFrameworkCore.Tools -Version 9.0.0 >
+ Install-Package Microsoft.EntityFrameworkCore.Design -Version 9.0.0 >
+ Install-Package Microsoft.EntityFrameworkCore.Relational -Version 9.0.0

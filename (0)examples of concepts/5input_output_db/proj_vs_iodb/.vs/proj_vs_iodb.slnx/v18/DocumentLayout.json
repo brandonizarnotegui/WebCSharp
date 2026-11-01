@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\5input_output_db\\proj_vs_iodb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{681CF897-74B3-D9BF-0F83-0050E5FD3CB2}|proj_vs_iodb\\proj_vs_iodb.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\5input_output_db\\proj_vs_iodb\\proj_vs_iodb\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681CF897-74B3-D9BF-0F83-0050E5FD3CB2}|proj_vs_iodb\\proj_vs_iodb.csproj|solutionrelative:proj_vs_iodb\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681CF897-74B3-D9BF-0F83-0050E5FD3CB2}|proj_vs_iodb\\proj_vs_iodb.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\5input_output_db\\proj_vs_iodb\\proj_vs_iodb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681CF897-74B3-D9BF-0F83-0050E5FD3CB2}|proj_vs_iodb\\proj_vs_iodb.csproj|solutionrelative:proj_vs_iodb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681CF897-74B3-D9BF-0F83-0050E5FD3CB2}|proj_vs_iodb\\proj_vs_iodb.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\5input_output_db\\proj_vs_iodb\\proj_vs_iodb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{681CF897-74B3-D9BF-0F83-0050E5FD3CB2}|proj_vs_iodb\\proj_vs_iodb.csproj|solutionrelative:proj_vs_iodb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681CF897-74B3-D9BF-0F83-0050E5FD3CB2}|proj_vs_iodb\\proj_vs_iodb.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\5input_output_db\\proj_vs_iodb\\proj_vs_iodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{681CF897-74B3-D9BF-0F83-0050E5FD3CB2}|proj_vs_iodb\\proj_vs_iodb.csproj|solutionrelative:proj_vs_iodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681CF897-74B3-D9BF-0F83-0050E5FD3CB2}|proj_vs_iodb\\proj_vs_iodb.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\5input_output_db\\proj_vs_iodb\\proj_vs_iodb\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681CF897-74B3-D9BF-0F83-0050E5FD3CB2}|proj_vs_iodb\\proj_vs_iodb.csproj|solutionrelative:proj_vs_iodb\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\5input_output_db\\proj_vs_iodb\\proj_vs_iodb\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "proj_vs_iodb\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\5input_output_db\\proj_vs_iodb\\proj_vs_iodb\\Models\\Message.cs",
+              "RelativeToolTip": "proj_vs_iodb\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T01:36:06.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\5input_output_db\\proj_vs_iodb\\proj_vs_iodb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "proj_vs_iodb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\5input_output_db\\proj_vs_iodb\\proj_vs_iodb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "proj_vs_iodb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T00:45:15.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\5input_output_db\\proj_vs_iodb\\proj_vs_iodb\\appsettings.json",
+              "RelativeDocumentMoniker": "proj_vs_iodb\\appsettings.json",
+              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\5input_output_db\\proj_vs_iodb\\proj_vs_iodb\\appsettings.json",
+              "RelativeToolTip": "proj_vs_iodb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-11T22:27:45.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\5input_output_db\\proj_vs_iodb\\proj_vs_iodb\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "proj_vs_iodb\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\5input_output_db\\proj_vs_iodb\\proj_vs_iodb\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "proj_vs_iodb\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T01:59:01.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\5input_output_db\\proj_vs_iodb\\proj_vs_iodb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "proj_vs_iodb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\5input_output_db\\proj_vs_iodb\\proj_vs_iodb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "proj_vs_iodb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T01:55:27.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(2)examples of apps\\proj_vs_reddit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D76C04-3799-4590-A07C-A65232EF6A02}|proj_vs_reddit\\proj_vs_reddit.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(2)examples of apps\\proj_vs_reddit\\proj_vs_reddit\\proj_vs_reddit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0D76C04-3799-4590-A07C-A65232EF6A02}|proj_vs_reddit\\proj_vs_reddit.csproj|solutionrelative:proj_vs_reddit\\proj_vs_reddit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D76C04-3799-4590-A07C-A65232EF6A02}|proj_vs_reddit\\proj_vs_reddit.csproj|c:\\users\\brand\\downloads\\redditclone\\redditclone\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "proj_vs_reddit",
+              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(2)examples of apps\\proj_vs_reddit\\proj_vs_reddit\\proj_vs_reddit.csproj",
+              "RelativeDocumentMoniker": "proj_vs_reddit\\proj_vs_reddit.csproj",
+              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(2)examples of apps\\proj_vs_reddit\\proj_vs_reddit\\proj_vs_reddit.csproj",
+              "RelativeToolTip": "proj_vs_reddit\\proj_vs_reddit.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-06T16:59:05.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\Downloads\\RedditClone\\RedditClone\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\RedditClone\\RedditClone\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\brand\\Downloads\\RedditClone\\RedditClone\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\RedditClone\\RedditClone\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T16:56:15.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

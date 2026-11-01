@@ -1,0 +1,6 @@
+
+inside controller
+return View (person);
+
+inside Index.cshtml
+@Model.Myfield

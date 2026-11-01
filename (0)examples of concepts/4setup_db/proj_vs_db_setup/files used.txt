@@ -1,0 +1,36 @@
+
+
+tools > nuget package manager > package manager console > 
+
+> Install-Package Pomelo.EntityFrameworkCore.MySql
+> Install-Package Microsoft.EntityFrameworkCore.Tools
+> Install-Package Microsoft.EntityFrameworkCore.Design
+because of the version mistmatch wont work so use this 
+> Install-Package Pomelo.EntityFrameworkCore.MySql -Version 9.0.0
+> Install-Package Microsoft.EntityFrameworkCore.Tools -Version 9.0.0
+> Install-Package Microsoft.EntityFrameworkCore.Design -Version 9.0.0
+> Install-Package Microsoft.EntityFrameworkCore.Relational -Version 9.0.0
+
+uses
+
+------------------------
+
+appsettings.json		configuration app for the db connection
+Data/AppDbContext.cs		tells you what tables the db will use 
+Models/Product.cs		represents a table/entity
+Program.cs			configuration file for your app
+
+------------------------
+
+run migrations in the package manager console: 
+
+> Add-Migration InitialCreate
+> Update-Database
+
+note: the dummy data is created after entering the webpage at least one time. 
+otherwise it wont be initialized.
+to enter from a different app you must delete the schema and use remove migrations.before going to another app. 
+
+------------------------
+Controllers/ProductsController.cs
+------------------------

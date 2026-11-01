@@ -1,0 +1,7 @@
+Best Fix
+
+Keep your app on .NET 10, but downgrade EF Core packages to version 9 so they match Pomelo.
+
+.NET version and EF Core version do NOT have to match.
+
+the index file in views should be exactly "Index.cshtml" not index...

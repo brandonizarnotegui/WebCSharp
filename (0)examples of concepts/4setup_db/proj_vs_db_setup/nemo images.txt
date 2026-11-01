@@ -1,0 +1,14 @@
+
+pen injection, sync tas, wait context
+
+table,for real ballerina model
+
+dbcontext, bob the buillder, conn string, app
+
+
+dependency injection, async task, await _context...,
+
+table, for each var el in model
+
+AppDbContext, builder, connection string, app
+

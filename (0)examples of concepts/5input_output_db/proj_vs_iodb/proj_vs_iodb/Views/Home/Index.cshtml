@@ -1,0 +1,25 @@
+﻿@model List<proj_vs_iodb.Models.Message>
+
+<h1>Input Saver</h1>
+
+<form asp-action="SaveMessage" method="post">
+
+    <input type="text"
+           name="text"
+           placeholder="Type something"
+           required />
+
+    <button type="submit">
+        Save
+    </button>
+
+</form>
+
+<hr />
+
+<h2>Saved Messages</h2>
+
+@foreach (var message in Model)
+{
+    <p>@message.Text</p>
+}

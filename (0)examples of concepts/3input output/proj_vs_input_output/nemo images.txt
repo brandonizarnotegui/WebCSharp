@@ -1,0 +1,54 @@
+
+
+
+
+fedex truck in a tv, funk with param
+email moth ,space
+wasp,action,greet,oxford,name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@model proj_vs_input_output.Models.Person
+
+asp-action="Greet" 
+asp-for="Name"
+
+
+
+[HttpPost]
+public IActionResult Greet(Person person)
+{
+	return View(person);
+}
