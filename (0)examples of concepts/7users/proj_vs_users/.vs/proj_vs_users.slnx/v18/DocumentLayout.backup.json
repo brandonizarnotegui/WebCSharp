@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6users\\proj_vs_users\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B762385-AAC0-779E-D8C4-C044050C7A7B}|proj_vs_users\\proj_vs_users.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B762385-AAC0-779E-D8C4-C044050C7A7B}|proj_vs_users\\proj_vs_users.csproj|solutionrelative:proj_vs_users\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B762385-AAC0-779E-D8C4-C044050C7A7B}|proj_vs_users\\proj_vs_users.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B762385-AAC0-779E-D8C4-C044050C7A7B}|proj_vs_users\\proj_vs_users.csproj|solutionrelative:proj_vs_users\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B762385-AAC0-779E-D8C4-C044050C7A7B}|proj_vs_users\\proj_vs_users.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B762385-AAC0-779E-D8C4-C044050C7A7B}|proj_vs_users\\proj_vs_users.csproj|solutionrelative:proj_vs_users\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5B762385-AAC0-779E-D8C4-C044050C7A7B}|proj_vs_users\\proj_vs_users.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B762385-AAC0-779E-D8C4-C044050C7A7B}|proj_vs_users\\proj_vs_users.csproj|solutionrelative:proj_vs_users\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B762385-AAC0-779E-D8C4-C044050C7A7B}|proj_vs_users\\proj_vs_users.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B762385-AAC0-779E-D8C4-C044050C7A7B}|proj_vs_users\\proj_vs_users.csproj|solutionrelative:proj_vs_users\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B762385-AAC0-779E-D8C4-C044050C7A7B}|proj_vs_users\\proj_vs_users.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B762385-AAC0-779E-D8C4-C044050C7A7B}|proj_vs_users\\proj_vs_users.csproj|solutionrelative:proj_vs_users\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\Models\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "proj_vs_users\\Models\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\Models\\RegisterViewModel.cs",
-              "RelativeToolTip": "proj_vs_users\\Models\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T01:33:44.483Z",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "proj_vs_users\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "proj_vs_users\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-09T22:33:35.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\Models\\User.cs",
-              "RelativeDocumentMoniker": "proj_vs_users\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\Models\\User.cs",
-              "RelativeToolTip": "proj_vs_users\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T01:17:46.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "proj_vs_users\\Views\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "proj_vs_users\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-12T00:21:06.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "proj_vs_users\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\Controllers\\AccountController.cs",
               "RelativeToolTip": "proj_vs_users\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwG4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-06T22:40:15.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "proj_vs_users\\Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6users\\proj_vs_users\\proj_vs_users\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "proj_vs_users\\Models\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T22:40:12.136Z",
               "EditorCaption": ""
             }
           ]

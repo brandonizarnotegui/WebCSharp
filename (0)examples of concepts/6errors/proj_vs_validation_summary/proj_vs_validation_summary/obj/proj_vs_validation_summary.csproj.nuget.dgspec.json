@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\New folder\\proj_vs_validation_summary\\proj_vs_validation_summary\\proj_vs_validation_summary.csproj": {}
+    "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6errors\\proj_vs_validation_summary\\proj_vs_validation_summary\\proj_vs_validation_summary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\New folder\\proj_vs_validation_summary\\proj_vs_validation_summary\\proj_vs_validation_summary.csproj": {
+    "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6errors\\proj_vs_validation_summary\\proj_vs_validation_summary\\proj_vs_validation_summary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\New folder\\proj_vs_validation_summary\\proj_vs_validation_summary\\proj_vs_validation_summary.csproj",
+        "projectUniqueName": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6errors\\proj_vs_validation_summary\\proj_vs_validation_summary\\proj_vs_validation_summary.csproj",
         "projectName": "proj_vs_validation_summary",
-        "projectPath": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\New folder\\proj_vs_validation_summary\\proj_vs_validation_summary\\proj_vs_validation_summary.csproj",
+        "projectPath": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6errors\\proj_vs_validation_summary\\proj_vs_validation_summary\\proj_vs_validation_summary.csproj",
         "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\New folder\\proj_vs_validation_summary\\proj_vs_validation_summary\\obj\\",
+        "outputPath": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\6errors\\proj_vs_validation_summary\\proj_vs_validation_summary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

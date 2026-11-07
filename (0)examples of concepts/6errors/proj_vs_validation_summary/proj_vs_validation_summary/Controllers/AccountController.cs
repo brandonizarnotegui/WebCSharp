@@ -10,34 +10,34 @@ namespace ValidationDemo.Controllers;
 // The name "AccountController" maps to the URL segment /Account.
 public class AccountController : Controller
 {
-    // GET /Account/Signup
-    // Runs when someone visits the page. Renders Views/Account/Signup.cshtml
-    // with an empty form.
+    //action method 
+    //GET requests are commonly used to retrieve or display information.
     [HttpGet]
     public IActionResult Signup() => View();
 
-    // POST /Account/Signup
+
     // Runs when the form is submitted. MVC automatically fills "model"
-    // from the form fields (model binding) and runs the data annotation
-    // checks ([Required], [StringLength], etc.), recording any failures in ModelState.
+    // from the form fields 
+    //POST requests are commonly used to submit data to a server
     [HttpPost]
     public IActionResult Signup(SignupModel model)
+
+
     {
-        // Custom business rule that data annotations can't express.
-        // Passing string.Empty as the key means the error isn't tied to any field,
-        // so it shows up in asp-validation-summary="ModelOnly".
-        // OrdinalIgnoreCase makes "admin", "Admin", and "ADMIN" all match.
-        if (model.Username.Equals("admin", StringComparison.OrdinalIgnoreCase))
+        //if input from the field is 'admin' then show a asp-validation-summary="ModelOnly"
+
+        if (model.Username.Equals("admin", StringComparison.OrdinalIgnoreCase))//the model here is the SignupModel
         {
             ModelState.AddModelError(string.Empty, "That username is reserved. Please choose another.");
         }
 
-        // ModelState.IsValid is false if any annotation failed or we added an error above.
-        // Re-render the form with the user's input so they can fix it.
-        // The error messages are displayed by the validation tag helpers in the view.
-        if (!ModelState.IsValid)
+
+        //ModelState is an object that keeps track of the data submitted by the user and whether that data passes validation.
+
+        //validation rules are commonly defined inside the Model class using Data Annotation Attributes or also called validation attributes
+        if (!ModelState.IsValid)//if a validation attribute does not comply
         {
-            return View(model);
+            return View(model);//returns the model displaying the errors in the span tag
         }
 
         // Success: store a one-time message that survives the redirect

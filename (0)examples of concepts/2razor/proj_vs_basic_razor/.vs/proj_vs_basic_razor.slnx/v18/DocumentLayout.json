@@ -9,14 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BE76C8BC-E058-1385-372C-25BFE21908CC}|proj_vs_basic_razor\\proj_vs_basic_razor.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE76C8BC-E058-1385-372C-25BFE21908CC}|proj_vs_basic_razor\\proj_vs_basic_razor.csproj|solutionrelative:proj_vs_basic_razor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE76C8BC-E058-1385-372C-25BFE21908CC}|proj_vs_basic_razor\\proj_vs_basic_razor.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE76C8BC-E058-1385-372C-25BFE21908CC}|proj_vs_basic_razor\\proj_vs_basic_razor.csproj|solutionrelative:proj_vs_basic_razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE76C8BC-E058-1385-372C-25BFE21908CC}|proj_vs_basic_razor\\proj_vs_basic_razor.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE76C8BC-E058-1385-372C-25BFE21908CC}|proj_vs_basic_razor\\proj_vs_basic_razor.csproj|solutionrelative:proj_vs_basic_razor\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "proj_vs_basic_razor\\Models\\Person.cs",
-              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\Models\\Person.cs",
-              "RelativeToolTip": "proj_vs_basic_razor\\Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "proj_vs_basic_razor\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "proj_vs_basic_razor\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T22:38:37.116Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\Program.cs",
-              "RelativeDocumentMoniker": "proj_vs_basic_razor\\Program.cs",
-              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\Program.cs",
-              "RelativeToolTip": "proj_vs_basic_razor\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T23:04:42.78Z"
+              "WhenOpened": "2026-04-30T22:36:28.594Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -61,22 +41,10 @@
               "RelativeDocumentMoniker": "proj_vs_basic_razor\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "proj_vs_basic_razor\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-30T22:41:02.015Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "proj_vs_basic_razor\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "proj_vs_basic_razor\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T22:36:28.594Z"
             }
           ]
         }
