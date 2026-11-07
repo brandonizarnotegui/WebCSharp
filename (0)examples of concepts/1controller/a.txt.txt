@@ -1,1 +1,5 @@
 a controller is the middleman between the model and the view
+
+
+more information
+C:\Users\brand\Desktop\my_videos
