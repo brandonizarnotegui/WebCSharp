@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MGcbX062AeU=",
+  "dgSpecHash": "njfrh4ul9XY=",
   "success": true,
   "projectFilePath": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\proj_vs_db_setup.csproj",
   "expectedPackageFiles": [
@@ -32,5 +32,18 @@
     "C:\\Users\\brand\\.nuget\\packages\\system.composition.runtime\\7.0.0\\system.composition.runtime.7.0.0.nupkg.sha512",
     "C:\\Users\\brand\\.nuget\\packages\\system.composition.typedparts\\7.0.0\\system.composition.typedparts.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'MySqlConnector' 2.4.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-473q-m89c-ghf8",
+      "projectPath": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\proj_vs_db_setup.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\proj_vs_db_setup.csproj",
+      "libraryId": "MySqlConnector",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

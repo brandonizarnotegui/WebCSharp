@@ -2,7 +2,12 @@
 
 <h2>Enter your name:</h2>
 
+@*The purpose of asp-for is to associate the HTML input with the Name property of your Person Model.*@
+@*The purpose of asp-action is to associate the HTML form with a specific Action Method in your Controller.*@
+
 <form asp-action="Greet" method="post">
     <input type="text" asp-for="Name" />
     <button type="submit">Submit</button>
 </form>
+
+

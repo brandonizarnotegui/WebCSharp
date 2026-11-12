@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\1controller\\proj_vs_controller\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E96693A4-106B-A0A2-287C-6DB7CE576C6B}|proj_vs_controller\\proj_vs_controller.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\1controller\\proj_vs_controller\\proj_vs_controller\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E96693A4-106B-A0A2-287C-6DB7CE576C6B}|proj_vs_controller\\proj_vs_controller.csproj|solutionrelative:proj_vs_controller\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +26,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T00:53:18.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ExampleController.cs",
               "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\1controller\\proj_vs_controller\\proj_vs_controller\\Controllers\\ExampleController.cs",
               "RelativeDocumentMoniker": "proj_vs_controller\\Controllers\\ExampleController.cs",
@@ -35,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "First.cshtml",
               "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\1controller\\proj_vs_controller\\proj_vs_controller\\Views\\Example\\First.cshtml",
               "RelativeDocumentMoniker": "proj_vs_controller\\Views\\Example\\First.cshtml",

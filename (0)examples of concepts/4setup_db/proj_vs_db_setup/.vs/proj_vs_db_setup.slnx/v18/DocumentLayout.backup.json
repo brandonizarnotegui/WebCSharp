@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AC7A1A3-A967-0635-5A08-3953CC458A69}|proj_vs_db_setup\\proj_vs_db_setup.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AC7A1A3-A967-0635-5A08-3953CC458A69}|proj_vs_db_setup\\proj_vs_db_setup.csproj|solutionrelative:proj_vs_db_setup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AC7A1A3-A967-0635-5A08-3953CC458A69}|proj_vs_db_setup\\proj_vs_db_setup.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AC7A1A3-A967-0635-5A08-3953CC458A69}|proj_vs_db_setup\\proj_vs_db_setup.csproj|solutionrelative:proj_vs_db_setup\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9AC7A1A3-A967-0635-5A08-3953CC458A69}|proj_vs_db_setup\\proj_vs_db_setup.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9AC7A1A3-A967-0635-5A08-3953CC458A69}|proj_vs_db_setup\\proj_vs_db_setup.csproj|solutionrelative:proj_vs_db_setup\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,8 +11,16 @@
       "RelativeMoniker": "D:0:0:{9AC7A1A3-A967-0635-5A08-3953CC458A69}|proj_vs_db_setup\\proj_vs_db_setup.csproj|solutionrelative:proj_vs_db_setup\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AC7A1A3-A967-0635-5A08-3953CC458A69}|proj_vs_db_setup\\proj_vs_db_setup.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AC7A1A3-A967-0635-5A08-3953CC458A69}|proj_vs_db_setup\\proj_vs_db_setup.csproj|solutionrelative:proj_vs_db_setup\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AC7A1A3-A967-0635-5A08-3953CC458A69}|proj_vs_db_setup\\proj_vs_db_setup.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC7A1A3-A967-0635-5A08-3953CC458A69}|proj_vs_db_setup\\proj_vs_db_setup.csproj|solutionrelative:proj_vs_db_setup\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC7A1A3-A967-0635-5A08-3953CC458A69}|proj_vs_db_setup\\proj_vs_db_setup.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC7A1A3-A967-0635-5A08-3953CC458A69}|proj_vs_db_setup\\proj_vs_db_setup.csproj|solutionrelative:proj_vs_db_setup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC7A1A3-A967-0635-5A08-3953CC458A69}|proj_vs_db_setup\\proj_vs_db_setup.csproj|c:\\users\\brand\\desktop\\hl-copy\\0_programming\\3_webdev\\0_serverside code\\webcsharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AC7A1A3-A967-0635-5A08-3953CC458A69}|proj_vs_db_setup\\proj_vs_db_setup.csproj|solutionrelative:proj_vs_db_setup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,67 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "proj_vs_db_setup\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "proj_vs_db_setup\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "proj_vs_db_setup\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "proj_vs_db_setup\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T02:41:51.437Z",
+              "WhenOpened": "2026-07-29T02:25:27.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "proj_vs_db_setup\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\Models\\Product.cs",
-              "RelativeToolTip": "proj_vs_db_setup\\Models\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T02:39:14.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "index.cshtml",
               "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\Views\\Products\\index.cshtml",
               "RelativeDocumentMoniker": "proj_vs_db_setup\\Views\\Products\\index.cshtml",
               "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\Views\\Products\\index.cshtml",
               "RelativeToolTip": "proj_vs_db_setup\\Views\\Products\\index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-29T02:36:13.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "proj_vs_db_setup\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "proj_vs_db_setup\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T02:25:27.836Z"
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\appsettings.json",
+              "RelativeDocumentMoniker": "proj_vs_db_setup\\appsettings.json",
+              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\appsettings.json",
+              "RelativeToolTip": "proj_vs_db_setup\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-11T03:09:30.989Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "proj_vs_db_setup\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "proj_vs_db_setup\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T02:41:51.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\Program.cs",
               "RelativeDocumentMoniker": "proj_vs_db_setup\\Program.cs",
               "ToolTip": "C:\\Users\\brand\\Desktop\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\4setup_db\\proj_vs_db_setup\\proj_vs_db_setup\\Program.cs",
               "RelativeToolTip": "proj_vs_db_setup\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T22:55:39.006Z",
               "EditorCaption": ""

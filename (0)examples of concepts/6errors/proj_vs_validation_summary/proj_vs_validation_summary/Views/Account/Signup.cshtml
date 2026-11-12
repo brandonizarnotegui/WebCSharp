@@ -9,29 +9,28 @@
 
 <h1>Sign up</h1>
 
-@* Show a success message if the controller stored one in TempData.
-   "is string msg" checks that it exists and is a string, then assigns it to msg. *@
+@* Checks whether TempData["Success"] contains a string.
+If it does, creates the variable msg and assigns that string to it. *@
 @if (TempData["Success"] is string msg)
 {
     <div class="alert alert-success">@msg</div>
 }
 
-@* asp-action="Signup" makes the form post to the Signup action
-   of the current controller (the [HttpPost] version). *@
+@* asp-action="Signup" makes the form post to the Signup action *@
 <form asp-action="Signup" method="post" style="max-width: 360px;">
 
-    @* Validation summary, Displays only model-level errors *@
+    @* asp-validation-summary is made to display model-level errors *@
     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
     <div class="mb-3">
-        @* Generates a <label> using the property name (or [Display] attribute). *@
+        @* Generates a <label> using the property name *@
         <label asp-for="Username" class="form-label"></label>
 
         @* Generates an <input> with the right id, name, and value,
            plus validation attributes taken from the model's data annotations. *@
         <input asp-for="Username" class="form-control" />
 
-        @* Displays the validation error for the Username field only. *@
+        @* asp-validation-for is made to display Property-level error *@
         <span asp-validation-for="Username" class="text-danger"></span>
     </div>
 
@@ -42,6 +41,7 @@
            this renders as type="password" so the text is masked. *@
         <input asp-for="Password" class="form-control" />
 
+        @* asp-validation-for is made to display Property-level error *@
         <span asp-validation-for="Password" class="text-danger"></span>
     </div>
 
